@@ -14,7 +14,7 @@ that is imbued with the powers of fire (called the Tide), that will destroy the 
 
 A player starts the game with 2-3 lives. Gain an additional life when you beat level 4.
 
-PowerUps will cause the Tide to increase in power, helping you but also hindering you.
+PowerUps will cause the Tide to increase in power, helping you but also hindering you. Powerups fall from broken blocks randomly? YOu have to collect them with your character.
 
 ## Level Design
 
