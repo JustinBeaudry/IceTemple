@@ -7,7 +7,7 @@ Unity Course implementation of Breakout or Arkanoid
 Clone of Old School Breakout/Arkanoid game.
 
 The player is a member of a small village outside of the ice kingdom, which has been taken over the by the ice demon lords.
-The only way to save the ice world is to destroy the demon ice king himself.
+The only way to save the ice world is to destroy the ice demon king himself.
 
 Each level is essentially a boss fight. You fight the demon lord who has over taken the ice castle by using your magical shield
 that is imbued with the powers of fire (called the Tide), that will destroy the many ice gems that power each ice lord. Each 
