@@ -1,6 +1,6 @@
 # IceTemple
 
-Unity Course implementation of Breakout or Arkanoid
+Unity Course implementation of [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game) or [Arkanoid](https://en.wikipedia.org/wiki/Arkanoid)
 
 ## Game Design Document
 
