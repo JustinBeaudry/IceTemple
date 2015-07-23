@@ -10,7 +10,7 @@ The player is a member of a small village outside of the ice kingdom, which has 
 The only way to save the ice world is to destroy the ice demon king himself.
 
 Each level is essentially a boss fight. You fight the demon lord who has over taken the ice castle by using your magical shield
-that is imbued with the powers of fire (called the Tide), that will destroy the many ice gems that power each ice lord. Your death is when the demon lord reflects the power back to you and you do not block it with your shield. (e.g. don't block the ball with the paddle)
+that is imbued with the powers of fire (called the Tide), that will destroy the many ice gems that power each ice lord. Your death is when the demon lord reflects the power back to you and you do not block it with your shield and your life reaches 0. (e.g. don't block the ball with the paddle)
 
 A player starts the game with 2-3 lives. Gain an additional life when you beat level 4.
 
